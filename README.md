@@ -22,7 +22,7 @@ O projeto **Caravan** foi desenvolvido durante o curso de **Bootstrap 4** da **[
 
 ## 🖥️ Demonstração
 
-[![Caravan](https://imgur.com/KDMgQA7 "Clique para acessar o projeto")](https://johnatandjesus.github.io/caravan-curso/ "Clique para acessar o projeto")
+[![Caravan](https://imgur.com/KDMgQA7.png "Clique para acessar o projeto")](https://johnatandjesus.github.io/caravan-curso/ "Clique para acessar o projeto")
 
 Você pode acessar o projeto clicando [aqui](https://johnatandjesus.github.io/caravan-curso/).
 
